@@ -1,5 +1,7 @@
 # Visualizing Accurate Home Price Indices with kepler.gl
 
+(Presentation)[https://docs.google.com/presentation/d/1v552gDNZSte5xmnbQpCn0ktDhPVEksXztkyXCSqh8IY/edit?usp=sharing]
+
 ### Address Merging-Assess
 Normalize addresses in Assessor's dataset and merge it with enterprise address database for SF.
 pandas, regex, fuzzywuzzy algorithm based on Levenshtein Distance to calculate the differences between sequences
