@@ -20,5 +20,12 @@ Use 5% random sample with replacement to upload to kepler.gl
 
 ### Datasets
 Enterprise Addresses  -
+
 Assessors Data - 
+
 Kepler dataset - 
+
+### Intercative HTMLs 
+SF Home Prices - View. Kepler.gl map without filters.
+
+SF Home Prices - Filtered. Kepler.gl editable map with filters.
