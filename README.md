@@ -1,6 +1,6 @@
 # Visualizing Accurate Home Price Indices with kepler.gl
 
-[Presentation](https://docs.google.com/presentation/d/1v552gDNZSte5xmnbQpCn0ktDhPVEksXztkyXCSqh8IY/edit?usp=sharing)
+Google Slides [Presentation](https://docs.google.com/presentation/d/1v552gDNZSte5xmnbQpCn0ktDhPVEksXztkyXCSqh8IY/edit?usp=sharing) of the research project
 
 ### Address Merging-Assess
 Normalize addresses in Assessor's dataset and merge it with enterprise address database for SF.
@@ -17,3 +17,8 @@ Calculate monthly percentage price difference for every home in SF to create int
 
 ### Sampling
 Use 5% random sample with replacement to upload to kepler.gl
+
+### Datasets
+Enterprise Addresses  -
+Assessors Data - 
+Kepler dataset - 
