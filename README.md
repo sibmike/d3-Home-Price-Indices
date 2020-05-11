@@ -3,7 +3,7 @@
 Google Slides [Presentation](https://docs.google.com/presentation/d/1v552gDNZSte5xmnbQpCn0ktDhPVEksXztkyXCSqh8IY/edit?usp=sharing) of the research project
 
 ### Video Presentation of the project.
-Link
+[Link](https://drive.google.com/file/d/1weXCMnTCco9CEKAKLE2nrCHK9sfJBou0/view)
 
 ### Address Merging-Assess
 Normalize addresses in Assessor's dataset and merge it with enterprise address database for SF.
@@ -22,13 +22,13 @@ Calculate monthly percentage price difference for every home in SF to create int
 Use 5% random sample with replacement to upload to kepler.gl
 
 ### Datasets
-Enterprise Addresses  -
+[Enterprise Addresses](https://drive.google.com/open?id=1guHxmJz7hNUiOPdfE1Ex_ENjkX0wbdZR)
 
-Assessors Data - 
+[Assessors Data](https://drive.google.com/open?id=12sheEc2WyE7j6GKqcfLHlAsiBYwr88nP) 
 
-Kepler dataset - 
+[Kepler dataset](https://drive.google.com/open?id=10qNKyUdcOY9CYPS10loDG337iJZx50u1) 
 
 ### Intercative HTMLs 
-SF Home Prices - View. Kepler.gl map without filters.
+[SF Home Prices](https://drive.google.com/open?id=1QxJn_AcntnR-ndeg8RkzkQznZvXtGYYA) - View. Kepler.gl map without filters.
 
-SF Home Prices - Filtered. Kepler.gl editable map with filters.
+[SF Home Prices](https://drive.google.com/open?id=1X_8_Ss3eGsLnWXqs-OH6AzVfNfCE_iQZ) - Filtered. Kepler.gl editable map with filters.
